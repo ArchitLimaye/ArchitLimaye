@@ -1,7 +1,7 @@
 ------------------------------------------------------------------------
 - 👋 Hi, I’m @ArchitLimaye
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Artificial Intelligence
+- 👀 I’m interested in Coding and Projects
+- 🌱 I’m currently pursuing career in Airtificial Intelligence
 - -------------------------------------------------------------------
 
   
