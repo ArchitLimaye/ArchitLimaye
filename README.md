@@ -1,12 +1,24 @@
-------------------------------------------------------------------------
-- 👋 Hi, I’m @ArchitLimaye
-- 👀 I’m interested in Coding and Projects
-- 🌱 I’m currently pursuing career in Airtificial Intelligence
-- -------------------------------------------------------------------
+# Hey, I'm Archit 👋
 
-  
+I'm a student who enjoys coding, building projects, and experimenting
+with AI and new technologies.
 
-<!---
-ArchitLimaye/ArchitLimaye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Currently
+
+- 🤖 Exploring AI & Machine Learning
+- 🐍 Learning Python & DSA
+- 🛠️ Building projects and experiments
+- 🌱 Always learning something new
+
+### Tech I use
+`Python` `C` `C++` `Java` `SQL` `Git` `GitHub` `Pandas` `NumPy` `Scikit-learn`
+
+### Find me
+
+- GitHub: [@ArchitLimaye](https://github.com/ArchitLimaye)
+- LinkedIn: [Archit Limaye](YOUR_LINKEDIN)
+- Email: YOUR_EMAIL
+
+---
+
+> `while(alive): learn(); build(); evolve();`
