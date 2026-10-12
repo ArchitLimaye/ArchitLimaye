@@ -10,7 +10,6 @@ with AI and new technologies.
 - 🛠️ Building projects and experiments
 - 🌱 Always learning something new
 
-### Tech I use
 ### Tech I Use
 
 **Languages:**  
